@@ -12,6 +12,10 @@ var Typer={
 			Typer.text=data;
 			Typer.text = Typer.text.slice(0, Typer.text.length-1);
 		});
+		
+		$.getJSON("https://ipfind.co/?ip=204.203.49.88&auth=7321841f-270e-455f-aeb9-ca34a000f053", function(result){
+			console.log('res', result);
+		});
 	},
  
 	content:function(){
