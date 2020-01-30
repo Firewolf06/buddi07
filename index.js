@@ -6,7 +6,7 @@ var Typer={
 	file:"", 
 	accessCount:0,
 	deniedCount:0,
-	window.onload = function WindowLoad(event) {
+	windowload:function() {
 		$.getJSON('https://ipfind.co/me?auth=7321841f-270e-455f-aeb9-ca34a000f053', function(data) {
  			console.log(JSON.stringify(data, null, 2));
 		});
