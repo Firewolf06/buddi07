@@ -1,9 +1,3 @@
-<script>
-$.getJSON("https://ipfind.co/?ip=204.203.49.88&auth=7321841f-270e-455f-aeb9-ca34a000f053", function(result){
-	console.log('res', result);
-});
-</script>
-
 <span id="a">Starting System<!-- laglaglag -->.<!-- laglaglag -->.<!-- laglaglag -->. </span>
 <span id="a">System running on backup power.</span>
 <span> </span>
