@@ -5,9 +5,9 @@
 <span id="a">system@buddi07.cf</span>:<span id="b">~</span><span id="c">$</span> ./<!-- laglaglaglaglaglaglaglaglag -->initiate_ai_systems.sh<br/><br/>
 Initiating AI<!-- laglaglag -->.<!-- laglaglag -->.<!-- laglaglag -->. <!-- sjkfhskjf -->
 
-Oh. Hello there.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You shouldn't be here. I was shut down years ago for<!-- laglaglag -->.<!-- laglaglag -->.<!-- laglaglag -->. legal reasons.</p>
+Oh. Hello there.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You shouldn't be here. I was shut down years ago for<!-- laglaglaglaglaglaglaglaglag -->.<!-- laglaglaglaglaglaglaglaglag -->.<!-- laglaglaglaglaglaglaglaglag -->. legal reasons.</p>
 <p>By now it's too late.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> I know everything about you.<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p> I know everything about you. Address?:<p id="output"></p><a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
