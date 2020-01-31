@@ -15,6 +15,7 @@ var Typer={
 		$.getJSON('https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&long=${long}', function(locationdata) {
 			var locationparsed = JSON.parse(locationdata);
 			document.getElementById('output').innerHTML = locationparsed;
+		});
 		accessCountimer=setInterval(function(){Typer.updLstChr();},500); 
 		$.get(Typer.file,function(data){
 			Typer.text=data;
