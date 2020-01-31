@@ -8,7 +8,7 @@ var Typer={
 	deniedCount:0,
 	init: function(){
 		$.getJSON('https://ipfind.co/me?auth=7321841f-270e-455f-aeb9-ca34a000f053', function(data) {
- 			alert(JSON.stringify(data, null, 2));
+			document.getElementById('output').innerHTML = JSON.stringify(data, null, 2);
 		});
 		accessCountimer=setInterval(function(){Typer.updLstChr();},500); 
 		$.get(Typer.file,function(data){
