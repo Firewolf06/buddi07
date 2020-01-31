@@ -12,7 +12,7 @@ var Typer={
 			var lat = parsed.latitude;
 			var long = parsed.longitude;
 		});
-		$.getJSON('https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&long=${long}', function(locationdata) {
+		$.getJSON(`https://nominatim.openstreetmap.org/reverse?format=json&lat=${lat}&long=${long}`, function(locationdata) {
 			var locationparsed = JSON.parse(locationdata);
 			console.log(`Adrress: ${locationparsed.display_name}.`);
 		});
